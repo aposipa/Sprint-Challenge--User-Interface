@@ -194,5 +194,13 @@ header{
 .aboutpage{
     padding:0 2% 2% 2%;
     border-bottom: 1px dashed black;
-
+}
+.toptwosections{
+    display: flex;
+    padding-top: 3%;
+   
+}
+.bottomtwosections{
+    display: flex;
+    padding-top: 3%;
 }
