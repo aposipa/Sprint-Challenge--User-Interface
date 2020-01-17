@@ -159,7 +159,7 @@ header{
    text-align: center;
    margin-left: 29%;
    margin-right: 25%;
-   margin-bottom: 2%;
+   margin-bottom: 1%;
 }
 #box1{
     background-color:teal;
@@ -190,4 +190,9 @@ header{
 }
 #box10{
     background-color:dodgerblue;
+}
+.aboutpage{
+    padding:0 2% 2% 2%;
+    border-bottom: 1px dashed black;
+
 }
