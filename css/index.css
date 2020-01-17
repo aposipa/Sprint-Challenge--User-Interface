@@ -154,6 +154,11 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    
+}
+.links a{
+    text-decoration: none;
+    color:black;
 }
 .toppicture{
    text-align: center;
