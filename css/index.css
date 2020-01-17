@@ -18,7 +18,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
 	padding: 0;
-	border: 0;
+	
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -143,4 +143,51 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+header{
+    padding-top: 2%;
+}
+.links{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.toppicture{
+   text-align: center;
+   margin-left: 29%;
+   margin-right: 25%;
+   margin-bottom: 2%;
+}
+#box1{
+    background-color:teal;
+}
+#box2{
+    background-color:gold;
+}
+#box3{
+    background-color:cadetblue;
+}
+#box4{
+    background-color:coral;
+}
+#box5{
+    background-color:crimson;
+}
+#box6{
+    background-color:forestgreen;
+}
+#box7{
+    background-color:darkorchid;
+}
+#box8{
+    background-color:hotpink;
+}
+#box9{
+    background-color:indigo;
+}
+#box10{
+    background-color:dodgerblue;
 }
